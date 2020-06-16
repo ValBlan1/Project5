@@ -20,8 +20,6 @@ public class TestCar {
 		
 		Vehicle vehicle = new Toyota();
 		vehicle.oilEngine();
-		
-	
 	}
 
 }
